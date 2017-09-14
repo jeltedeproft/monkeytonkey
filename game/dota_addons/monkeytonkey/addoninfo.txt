@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+  "TeamCount" "2"
+  "maps"      "monkeytonkey2"
+  "IsPlayable"  "1"
+  "monkeytonkey2"
+  {
+          "MaxPlayers"                    "10"
+  }
+}
